@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T21:50:02.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9s5C3RsomqNj1upvTytk" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T21:51:12.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="etwVLovycrT7w7CZ1Z6G" version="20.0.1" type="github">
   <diagram id="EXZT-ICQkFPjn3lPqpmB" name="Page-1">
     <mxGraphModel dx="1030" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,8 +130,8 @@
             <mxPoint x="680" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orOQ1NgVfUw4ZZZ5vbPm-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 31px;&quot;&gt;DB DIAGRAM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-210" width="220" height="30" as="geometry" />
+        <mxCell id="orOQ1NgVfUw4ZZZ5vbPm-43" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;Linda mtaa&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-210" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
